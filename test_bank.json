@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "first_name": "Annadiana",
+        "last_name": "Dykes",
+        "email": "adykes0@soup.io",
+        "home_time_zone": "Europe/Paris",
+        "credit_cards": [
+            {
+                "authorizer": "americanexpress",
+                "card_number": "374622117663665",
+                "expiration_date": "2022-10-02",
+                "balance": 12343.57
+            },
+            {
+                "authorizer": "bankcard",
+                "card_number": "5610863059038622",
+                "expiration_date": "2022-07-19",
+                "balance": 2311.92
+            },
+            {
+                "authorizer": "visa-electron",
+                "card_number": "4508143536619171",
+                "expiration_date": "2022-11-02",
+                "balance": 35068.27
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "first_name": "Launce",
+        "last_name": "Leverentz",
+        "email": "lleverentz1@harvard.edu",
+        "home_time_zone": "Asia/Manila",
+        "credit_cards": [
+            {
+                "authorizer": "americanexpress",
+                "card_number": "374909244735064",
+                "expiration_date": "2021-10-09",
+                "balance": -4101.62
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3538580600836494",
+                "expiration_date": "2023-01-20",
+                "balance": -2891.08
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3542205367203233",
+                "expiration_date": "2017-11-28",
+                "balance": 46769.4
+            },
+            {
+                "authorizer": "diners-club-enroute",
+                "card_number": "201913170964937",
+                "expiration_date": "2021-12-09",
+                "balance": 25531.66
+            },
+            {
+                "authorizer": "visa",
+                "card_number": "4041370715765",
+                "expiration_date": "2018-05-01",
+                "balance": 6230.46
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "first_name": "Johannes",
+        "last_name": "Christaeas",
+        "email": "jchristaeas2@multiply.com",
+        "home_time_zone": "Asia/Yekaterinburg",
+        "credit_cards": [
+            {
+                "authorizer": "switch",
+                "card_number": "490508587747530257",
+                "expiration_date": "2019-05-22",
+                "balance": -2.6
+            },
+            {
+                "authorizer": "diners-club-enroute",
+                "card_number": "201882235858287",
+                "expiration_date": "2021-02-16",
+                "balance": 47010.47
+            },
+            {
+                "authorizer": "visa-electron",
+                "card_number": "4508047572442044",
+                "expiration_date": "2024-03-08",
+                "balance": 28635.0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "first_name": "Jessy",
+        "last_name": "Duckworth",
+        "email": "jduckworth3@amazon.co.jp",
+        "home_time_zone": "Asia/Shanghai",
+        "credit_cards": [
+            {
+                "authorizer": "jcb",
+                "card_number": "3569898493857571",
+                "expiration_date": "2018-08-24",
+                "balance": -8952.21
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3580059805568555",
+                "expiration_date": "2017-09-17",
+                "balance": 49629.53
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "first_name": "Aimee",
+        "last_name": "Scarlett",
+        "email": "ascarlett4@techcrunch.com",
+        "home_time_zone": "America/Chicago",
+        "credit_cards": [
+            {
+                "authorizer": "china-unionpay",
+                "card_number": "560224718367464237",
+                "expiration_date": "2020-08-23",
+                "balance": 45093.47
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3584421451132811",
+                "expiration_date": "2024-02-18",
+                "balance": 13640.18
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3586272935907783",
+                "expiration_date": "2018-04-16",
+                "balance": 548.9
+            },
+            {
+                "authorizer": "bankcard",
+                "card_number": "5602214369376825",
+                "expiration_date": "2021-03-08",
+                "balance": -6050.92
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "first_name": "Currey",
+        "last_name": "Pattinson",
+        "email": "cpattinson5@businessinsider.com",
+        "home_time_zone": "Europe/Paris",
+        "credit_cards": [
+            {
+                "authorizer": "mastercard",
+                "card_number": "5460079746943246",
+                "expiration_date": "2022-01-12",
+                "balance": 17555.9
+            },
+            {
+                "authorizer": "jcb",
+                "card_number": "3552886565708375",
+                "expiration_date": "2020-11-29",
+                "balance": -628.8
+            }
+        ]
+    }
+]
